@@ -42,9 +42,9 @@ Once your posts are categorized, you can create a custom menu that separates all
 ### Posting Video
 Video is one of the best ways to communicate your work. The best way to include video content is to post the video on [Vimeo](https://vimeo.com/) and embed it into your post. The free version of wordpress does not allow you to post video, so using Vimeo is a simple work-around. YouTube is another option, we suggest Vimeo because it has a more professional, creative-minded aesthetic and connotation. 
 
-    Project videos are one of the best ways to explain your work. Here is a terrific example of a project video by TAM student Mike about his Capstone project - [What is ZimVR](https://vimeo.com/248241674)
+Project videos are one of the best ways to explain your work. Here is a terrific example of a well-produced [project video](https://vimeo.com/248241674) by TAM student Mike about his Capstone project. 
 
-    Videos are also a great way to show that you got something working. Here is an 
+Videos are also a great way to show that you got something working. [This post](https://andreacreativetech.wordpress.com/2018/04/16/prototype-2-exploring-microbit/) by TAM Student Andrea has several embedded examples of her tests using a Micro:bit. 
 
 ### Posting Code
 [Github Gist](https://gist.github.com/) is a great option for embedding code into your blog post. Gist works well for embedding code snippets. For larger programs, it is ideal to link to a Github repository. Don’t overload your post with too much code!
