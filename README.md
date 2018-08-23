@@ -75,6 +75,11 @@ The best student blogs are those that tell a comprehensive story about the stude
 + [Amanda](https://www.pinkthunderdesign.com/blog/) - TAM Major, expected graduation May 2019
 + [Andrew](https://andrewshepherdsite.wordpress.com/) - TAM Major, expected graduation May 2019
 
+Some non-ATLAS student blogs that are really excellent:
++ [Melanie Hoff](http://www.artdelicorp.com/)
++ [Angela Perrone](http://happy-chaos.com/)
++ [Eve Weinberg](http://itpblog.evejweinberg.com/)
+
 ### Research Labs
 + [Laboratory for Playful Computation](https://www.playfulcomputation.group/blog)
 + [Unstable Design Lab](http://unstable.design/blog/)
