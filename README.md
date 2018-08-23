@@ -5,7 +5,7 @@ This is a guide for ATLAS students that outlines best practices for documentatio
 
 ## Portfolio vs Work In Progress Journal
 
-There are two primary forms of documentation that we utilize in ATLAS - a **Curated Portfolio** and a **Work-In-Progress Blog**. Your portfolio should link to your blog, and vice versa, but the purpose and setup of these two things is very different. 
+There are two different kinds of documentation that we utilize in ATLAS - a **Curated Portfolio** and a **Work-In-Progress Blog**. Your portfolio should link to your blog, and vice versa, but the purpose and setup of these two things is very different. 
 
 You should leave ATLAS with ***both*** a Curated Portfolio and an WIP Blog. Until you have a significant collection of work, you can just focus on the blog. Your portfolio will be easy to create if you already have all of your projects documented on your blog. This guide focuses primarily on the Work-In-Progress Blog. 
 
