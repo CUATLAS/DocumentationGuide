@@ -2,18 +2,27 @@
 
 This is a guide for ATLAS students that outlines best practices for documentation and the importance of building an online presence. All ATLAS students are highly encouraged to document their work online in a work-in-progress journal, and some courses will require this practice. This document outlines our suggestions for building a digital record of your work that showcases your process as well as your technical and creative abilities.
 
-## The Purpose of a Work In Progress Journal 
 
+## Portfolio vs Work In Progress Journal
+
+There are two primary forms of documentation that we utilize in ATLAS - a **Curated Portfolio** and a **Work-In-Progress Blog**. Your portfolio should link to your blog, and vice versa, but the purpose and setup of these two things is very different. 
+
+You should leave ATLAS with ***both*** a Curated Portfolio and an WIP Blog. Until you have a significant collection of work, you can just focus on the blog. Your portfolio will be easy to create if you already have all of your projects documented on your blog. This guide focuses primarily on the Work-In-Progress Blog. 
+
+Remember - your online journal is not a portfolio!! The journal should contain your notes, ideas, references, and so on. It shows your process from start to finish, including insights and road bumps along the way. 
+
+
+## The Purpose of a Work In Progress Journal 
 + Turn in your homework
 + Show what you’ve learned
 + Give credit where credit is due
 + Keep track of tutorials, resources, online links, etc
-+ Get a job (a blog shows your skills and process!)
++ Get a job (a WIP blog shows your skills and process!)
 + Get press and allow collaborators to find you
 
-Documenting is like keeping a diary. Especially if you don’t know exactly what you are going to be doing after TAM, keeping a record of what you are doing will help you find the themes that emerge in your work. So important!
+Documenting to a WIP Blog is like keeping a diary. Especially if you don’t know exactly what you are going to be doing after ATLAS, keeping a record of what you are doing will help you find the themes that emerge in your work. So important!
 
-You should have **ONE** work in progress blog, *NOT one for each class*. Your blog should be a record of ***all*** of you work, in one place. Classes can be separated into different categories and displayed on unique pages. Name your blog something that will apply to all of your TAM work rather than focused on one topic. 
+You should have ***ONE*** work in progress blog, *NOT one for each class*. Your blog should be a record of ***all*** of you work, in one place. Classes can be separated into different categories and displayed on unique pages. Name your blog something that will apply to all of your TAM work rather than focused on one topic. 
 
 
 ## Suggestions
@@ -23,12 +32,26 @@ You should have **ONE** work in progress blog, *NOT one for each class*. Your bl
 + **Consider it part of your work!** It’s often the only part of your work that will survive. Plus, good documentation makes the work easier to understand...IE, better!
 
 ## Wordpress
-We highly encourage that you use Wordpress as a platform for your work-in-progress blog. Wordpress.com is free, customizable, and you can always upgrade to Wordpress.org if you want more control, customization, etc. If you really feel like another platform is better for your needs, feel free to discuss it with us. In working with hundreds of students on this documentation practice, we've found that Wordpress is far and away the most straightforward and comprehensive option.
+We highly encourage that you use Wordpress as a platform for your work-in-progress blog. Wordpress.com is free, easy to get started with, and you can always upgrade to Wordpress.org if you want more control, customization, etc. If you really feel like another platform is better for your needs, feel free to discuss it with us. In working with hundreds of students on this documentation practice, we've found that Wordpress is far and away the most straightforward and comprehensive option.
 
 ### Using Categories and Custom Menus
 In Wordpress, posts can be separated by category. You might be required to keep an online journal in your Form class and also in your Object class. **You do not need two separate blogs for this!** Simply set up one blog, and when you create posts, use categories to identify which class they are for. 
 
 Once your posts are categorized, you can create a custom menu that separates all of your Form posts from your Object posts. 
+
+### Posting Video
+Video is one of the best ways to communicate your work. The best way to include video content is to post the video on [Vimeo](https://vimeo.com/) and embed it into your post. The free version of wordpress does not allow you to post video, so using Vimeo is a simple work-around. YouTube is another option, we suggest Vimeo because it has a more professional, creative-minded aesthetic and connotation. 
+
+    Project videos are one of the best ways to explain your work. Here is a terrific example of a project video by TAM student Mike about his Capstone project - [What is ZimVR](https://vimeo.com/248241674)
+
+    Videos are also a great way to show that you got something working. Here is an 
+
+### Posting Code
+[Github Gist](https://gist.github.com/) is a great option for embedding code into your blog post. Gist works well for embedding code snippets. For larger programs, it is ideal to link to a Github repository. Don’t overload your post with too much code!
+
+### Photos and Video
+Do your best to capture photos and videos in landscape orientation - this format is vastly superior for the blog format since it allows the content to take up more of the screen. 
+
 
 ## What to Document
 + Write a post any time you make significant progress or have a meaningful experience in your work. 
@@ -36,7 +59,7 @@ Once your posts are categorized, you can create a custom menu that separates all
 + When documenting an interactive work, be sure to communicate the role of the user. Diagrams are helpful for this. 
 + Use pictures, drawings, schematics, and videos liberally to explain your work.
 + Document your projects thoroughly as you go, don’t put it off until the end. You can begin a post and continue to edit and add content to that post as the project progresses.
-+ Make sure any code you post is well-commented, so you and others can understand what it does. Gist works well for embedding code snippets. For larger programs, it is ideal to link to a Github repository. Don’t overload your notes with code!!
++ Make sure any code you post is well-commented, so you and others can understand what it does. 
 + Cite your sources - this includes existing research, code samples, schematics, fabrication techniques - anything that you did not personally generate. Remember, your journal lives on the internet, so use hyperlinks throughout your posts. 
 
 
