@@ -8,7 +8,7 @@ This is a guide for ATLAS students that outlines best practices for documentatio
 + Show what you’ve learned
 + Give credit where credit is due
 + Keep track of tutorials, resources, online links, etc
-+ Get a job (a blog shows your process!)
++ Get a job (a blog shows your skills and process!)
 + Get press and allow collaborators to find you
 
 Don’t let your work be a tree that falls down in the forest for nobody to hear. *“If you didn’t document it...it didn’t exist”.*
