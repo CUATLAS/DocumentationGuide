@@ -47,9 +47,10 @@ Don’t let your work be a tree that falls down in the forest for nobody to hear
 ### Student Blog 
 The best student blogs are those that tell a comprehensive story about the student and their practice. Posts should communicate both conceptual and technical skills. 
 
-+ Maggie - TAM Major, graduated December 2017 - https://littleformulations.wordpress.com/category/object/page/2/
-+ Keren - TAM Major, graduated December 2017 https://kerenmegorycohen.wordpress.com/category/object/
-+ Amanda - TAM Major, expected graduation May 2019 https://www.pinkthunderdesign.com/blog/
++ [Maggie](https://littleformulations.wordpress.com/category/object/page/2/) - TAM Major, graduated December 2017
++ [Keren](https://kerenmegorycohen.wordpress.com/category/object/) - TAM Major, graduated December 2017
++ [Amanda](https://www.pinkthunderdesign.com/blog/) - TAM Major, expected graduation May 2019
++ [Andrew](https://andrewshepherdsite.wordpress.com/) - TAM Major, expected graduation May 2019
 
 ### Research Labs
 + [Laboratory for Playful Computation](https://www.playfulcomputation.group/blog)
